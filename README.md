@@ -39,5 +39,6 @@ See the website of SHAPEIT, https://mathgen.stats.ox.ac.uk/genetics_software/sha
 
 # References
 
+* Morimoto C, Manabe S, Kawaguchi T, Kawai C, Fujimoto S, Hamano Y, Yamada R, Matsuda F, Tamaki K. Pairwise kinship analysis by the index of chromosome sharing using high-density single nucleotide polymorphisms. PLOS ONE. 2016;11(7): e0160287.
 * R Development Core Team. R: a language and environment for statistical computing. R Foundation for Statistical Computing. 2006.
 * Delaneau O, Coulonges C, Zagury JF. Shape-IT: new rapid and accurate algorithm for haplotype inference. BMC Bioinformatics. 2008; 9: 540.
